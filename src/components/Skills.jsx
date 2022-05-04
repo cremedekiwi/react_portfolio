@@ -19,14 +19,8 @@ function Skills() {
                 <p className='py-4'>Ceci sont les technologies avec lesquels j'ai travaillé</p>
             </div>
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
-                <div className='hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon"></img>
-                    <p className='my-4'>HTML</p>
-                </div>
-                <div className='hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={CSS} alt="CSS icon"></img>
-                    <p className='my-4'>CSS</p>
-                </div>
+
+                
                 <div className='hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={JavaScript} alt="JavaScript icon"></img>
                     <p className='my-4'>JAVASCRIPT</p>
@@ -40,16 +34,24 @@ function Skills() {
                     <p className='my-4'>NODE JS</p>
                 </div>
                 <div className='hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={GitHub} alt="GitHub icon"></img>
-                    <p className='my-4'>GITHUB</p>
+                    <img className='w-20 mx-auto' src={Mongo} alt="Mongo icon"></img>
+                    <p className='my-4'>MONGO DB</p>
+                </div>
+                <div className='hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon"></img>
+                    <p className='my-4'>HTML</p>
+                </div>
+                <div className='hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={CSS} alt="CSS icon"></img>
+                    <p className='my-4'>CSS</p>
                 </div>
                 <div className='hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind icon"></img>
                     <p className='my-4'>TAILWIND</p>
                 </div>
                 <div className='hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Mongo} alt="Mongo icon"></img>
-                    <p className='my-4'>MONGO DB</p>
+                    <img className='w-20 mx-auto' src={GitHub} alt="GitHub icon"></img>
+                    <p className='my-4'>GITHUB</p>
                 </div>
             </div>
         </div>

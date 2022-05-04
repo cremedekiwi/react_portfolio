@@ -12,14 +12,14 @@ function Work() {
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>Projets</p>
-                <p className='py-6'>Voici certains de mes récents projets</p>
+                <p className='py-6'>Voici certains de mes projets</p>
             </div>
         
             {/* Container */}
             <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
                 {/* Grid Item */}
                 <div style={{backgroundImage: `url(${Groupomania})`}}
-                className='shadow-lg shadow[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
+                className='group container rounded-md flex justify-center items-center mx-auto content-div'>
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
@@ -37,7 +37,7 @@ function Work() {
                 </div>
                 {/* Grid Item */}
                 <div style={{backgroundImage: `url(${HotTakes})`}}
-                className='shadow-lg shadow[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
+                className='group container rounded-md flex justify-center items-center mx-auto content-div'>
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
@@ -55,7 +55,7 @@ function Work() {
                 </div>
                 {/* Grid Item */}
                 <div style={{backgroundImage: `url(${Kanap})`}}
-                className='shadow-lg shadow[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
+                className='group container rounded-md flex justify-center items-center mx-auto content-div'>
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
@@ -73,7 +73,7 @@ function Work() {
                 </div>
                 {/* Grid Item */}
                 <div style={{backgroundImage: `url(${ChouetteAgence})`}}
-                className='shadow-lg shadow[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
+                className='group container rounded-md flex justify-center items-center mx-auto content-div'>
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
@@ -91,7 +91,7 @@ function Work() {
                 </div>
                 {/* Grid Item */}
                 <div style={{backgroundImage: `url(${Ohmyfood})`}}
-                className='shadow-lg shadow[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
+                className='group container rounded-md flex justify-center items-center mx-auto content-div'>
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
@@ -109,7 +109,7 @@ function Work() {
                 </div>
                 {/* Grid Item */}
                 <div style={{backgroundImage: `url(${Reservia})`}}
-                className='shadow-lg shadow[#040c16] group container rounder-md flex justify-center items-center mx-auto content-div'>
+                className='group container rounded-md flex justify-center items-center mx-auto content-div'>
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
