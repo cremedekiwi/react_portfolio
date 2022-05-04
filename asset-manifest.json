@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio-react-app/static/css/main.56a4e01a.css",
-    "main.js": "/portfolio-react-app/static/js/main.a1bf96fe.js",
+    "main.js": "/portfolio-react-app/static/js/main.76091e56.js",
     "static/media/chouette_agence.jpg": "/portfolio-react-app/static/media/chouette_agence.f0db6ba514ac2306360f.jpg",
     "static/media/kanap.jpg": "/portfolio-react-app/static/media/kanap.3a18bb761070ac8529b3.jpg",
     "static/media/hot_takes.jpg": "/portfolio-react-app/static/media/hot_takes.d5edbdc45537f2dbdf31.jpg",
     "static/media/ohmyfood.jpg": "/portfolio-react-app/static/media/ohmyfood.b65980c25ba6d839ae20.jpg",
-    "static/media/cv_jarumugam.pdf": "/portfolio-react-app/static/media/cv_jarumugam.92fb0618060a529a2efa.pdf",
+    "static/media/cv_jarumugam.pdf": "/portfolio-react-app/static/media/cv_jarumugam.a956c05840b25af14b57.pdf",
     "static/media/reservia.jpg": "/portfolio-react-app/static/media/reservia.b47e98d2228a6b8bb9c4.jpg",
     "static/media/groupomania.jpg": "/portfolio-react-app/static/media/groupomania.3f57687d05bd75322569.jpg",
     "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react-app/index.html",
     "main.56a4e01a.css.map": "/portfolio-react-app/static/css/main.56a4e01a.css.map",
-    "main.a1bf96fe.js.map": "/portfolio-react-app/static/js/main.a1bf96fe.js.map"
+    "main.76091e56.js.map": "/portfolio-react-app/static/js/main.76091e56.js.map"
   },
   "entrypoints": [
     "static/css/main.56a4e01a.css",
-    "static/js/main.a1bf96fe.js"
+    "static/js/main.76091e56.js"
   ]
 }
