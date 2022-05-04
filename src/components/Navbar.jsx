@@ -24,18 +24,13 @@ function Navbar() {
                 </Link>
             </li>
             <li>
-                <Link to="about" smooth={true} duration={500}>
-                    About
+                <Link to="work" smooth={true} duration={500}>
+                    Projets
                 </Link>
             </li>
             <li>
                 <Link to="skills" smooth={true} duration={500}>
-                    Skills
-                </Link>
-            </li>
-            <li>
-                <Link to="work" smooth={true} duration={500}>
-                    Projets
+                    Compétences
                 </Link>
             </li>
             <li>
@@ -58,20 +53,16 @@ function Navbar() {
                 </Link>
             </li>
             <li className='py-6 text-4xl'>
-                <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-                    About
-                </Link>
-            </li>
-            <li className='py-6 text-4xl'>
-                <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
-                    Skills
-                </Link>
-            </li>
-            <li className='py-6 text-4xl'>
                 <Link onClick={handleClick} to="work" smooth={true} duration={500}>
                     Projets
                 </Link>
             </li>
+            <li className='py-6 text-4xl'>
+                <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
+                    Compétences
+                </Link>
+            </li>
+            
             <li className='py-6 text-4xl'>
                 <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
                     Contact
