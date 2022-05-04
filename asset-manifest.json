@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.bee83fc8.css",
-    "main.js": "/portfolio-react-app/static/js/main.ad4113f0.js",
-    "static/media/groupomania.jpg": "/portfolio-react-app/static/media/groupomania.cfed95179cb01290dec7.jpg",
+    "main.css": "/portfolio-react-app/static/css/main.add9b5ec.css",
+    "main.js": "/portfolio-react-app/static/js/main.3b47c4cc.js",
+    "static/media/chouette_agence.jpg": "/portfolio-react-app/static/media/chouette_agence.f0db6ba514ac2306360f.jpg",
+    "static/media/kanap.jpg": "/portfolio-react-app/static/media/kanap.3a18bb761070ac8529b3.jpg",
+    "static/media/hot_takes.jpg": "/portfolio-react-app/static/media/hot_takes.d5edbdc45537f2dbdf31.jpg",
+    "static/media/ohmyfood.jpg": "/portfolio-react-app/static/media/ohmyfood.b65980c25ba6d839ae20.jpg",
     "static/media/cv_jarumugam.pdf": "/portfolio-react-app/static/media/cv_jarumugam.f00a6412f5eb894c542c.pdf",
+    "static/media/reservia.jpg": "/portfolio-react-app/static/media/reservia.b47e98d2228a6b8bb9c4.jpg",
+    "static/media/groupomania.jpg": "/portfolio-react-app/static/media/groupomania.3f57687d05bd75322569.jpg",
     "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio-react-app/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/portfolio-react-app/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/portfolio-react-app/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/kanap.jpg": "/portfolio-react-app/static/media/kanap.87476b7d64882937cd0a.jpg",
-    "static/media/reservia.jpg": "/portfolio-react-app/static/media/reservia.0931c7dcd593feb7fa18.jpg",
-    "static/media/ohmyfood.jpg": "/portfolio-react-app/static/media/ohmyfood.7faa019b1d878b4a0015.jpg",
     "static/media/html.png": "/portfolio-react-app/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/portfolio-react-app/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/chouette_agence.jpg": "/portfolio-react-app/static/media/chouette_agence.2786399a7a1f54a056f0.jpg",
-    "static/media/hot_takes.jpg": "/portfolio-react-app/static/media/hot_takes.4380ad2cdb1566946e57.jpg",
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react-app/index.html",
-    "main.bee83fc8.css.map": "/portfolio-react-app/static/css/main.bee83fc8.css.map",
-    "main.ad4113f0.js.map": "/portfolio-react-app/static/js/main.ad4113f0.js.map"
+    "main.add9b5ec.css.map": "/portfolio-react-app/static/css/main.add9b5ec.css.map",
+    "main.3b47c4cc.js.map": "/portfolio-react-app/static/js/main.3b47c4cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.bee83fc8.css",
-    "static/js/main.ad4113f0.js"
+    "static/css/main.add9b5ec.css",
+    "static/js/main.3b47c4cc.js"
   ]
 }
