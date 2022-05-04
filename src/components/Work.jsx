@@ -25,6 +25,7 @@ function Work() {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             Groupomania
                         </span>
+                        <p>#React #NodeJS #SASS</p>
                         <div className='pt-8 text-center'>
                             {/* <a href='/'> */}
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -43,6 +44,7 @@ function Work() {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             Hot Takes
                         </span>
+                        <p>#NodeJS</p>
                         <div className='pt-8 text-center'>
                             {/* <a href='/'> */}
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -61,6 +63,7 @@ function Work() {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             Kanap
                         </span>
+                        <p>#Vanilla JavaScript</p>
                         <div className='pt-8 text-center'>
                             {/* <a href='/'> */}
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -79,6 +82,7 @@ function Work() {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             La Chouette Agence
                         </span>
+                        <p>#SEO #HTML #CSS</p>
                         <div className='pt-8 text-center'>
                             <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_4_25102021/' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -97,6 +101,7 @@ function Work() {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             Ohmyfood
                         </span>
+                        <p>#HTML #SASS</p>
                         <div className='pt-8 text-center'>
                             <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_3_04102021/' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -115,6 +120,7 @@ function Work() {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             Reservia
                         </span>
+                        <p>#HTML #CSS</p>
                         <div className='pt-8 text-center'>
                             <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_2_09092021/' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
