@@ -28,7 +28,7 @@ function Work() {
                         <p>#React #NodeJS #SASS</p>
                         <div className='pt-8 text-center'>
                             {/* <a href='/'> */}
-                                <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                {/* <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                             {/* </a> */}
                             <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_7_04012022' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -47,7 +47,7 @@ function Work() {
                         <p>#NodeJS</p>
                         <div className='pt-8 text-center'>
                             {/* <a href='/'> */}
-                                <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                {/* <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                             {/* </a> */}
                             <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_6_02122021' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -66,7 +66,7 @@ function Work() {
                         <p>#Vanilla JavaScript</p>
                         <div className='pt-8 text-center'>
                             {/* <a href='/'> */}
-                                <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                                {/* <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                             {/* </a> */}
                             <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_5_10112021' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
