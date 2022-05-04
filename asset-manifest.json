@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.c3a65ea5.css",
-    "main.js": "/portfolio-react-app/static/js/main.bff050f6.js",
+    "main.css": "/portfolio-react-app/static/css/main.bee83fc8.css",
+    "main.js": "/portfolio-react-app/static/js/main.ad4113f0.js",
     "static/media/groupomania.jpg": "/portfolio-react-app/static/media/groupomania.cfed95179cb01290dec7.jpg",
     "static/media/cv_jarumugam.pdf": "/portfolio-react-app/static/media/cv_jarumugam.f00a6412f5eb894c542c.pdf",
     "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -18,11 +18,11 @@
     "static/media/hot_takes.jpg": "/portfolio-react-app/static/media/hot_takes.4380ad2cdb1566946e57.jpg",
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react-app/index.html",
-    "main.c3a65ea5.css.map": "/portfolio-react-app/static/css/main.c3a65ea5.css.map",
-    "main.bff050f6.js.map": "/portfolio-react-app/static/js/main.bff050f6.js.map"
+    "main.bee83fc8.css.map": "/portfolio-react-app/static/css/main.bee83fc8.css.map",
+    "main.ad4113f0.js.map": "/portfolio-react-app/static/js/main.ad4113f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3a65ea5.css",
-    "static/js/main.bff050f6.js"
+    "static/css/main.bee83fc8.css",
+    "static/js/main.ad4113f0.js"
   ]
 }
