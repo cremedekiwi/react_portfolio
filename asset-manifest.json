@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.cb41b8bf.css",
-    "main.js": "/portfolio-react-app/static/js/main.7565628e.js",
+    "main.css": "/portfolio-react-app/static/css/main.c3a65ea5.css",
+    "main.js": "/portfolio-react-app/static/js/main.5a65c4da.js",
+    "static/media/groupomania.jpg": "/portfolio-react-app/static/media/groupomania.cfed95179cb01290dec7.jpg",
     "static/media/cv_jarumugam.pdf": "/portfolio-react-app/static/media/cv_jarumugam.f00a6412f5eb894c542c.pdf",
     "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio-react-app/static/media/node.952a9ea986dcfa5229ad.png",
@@ -14,15 +15,14 @@
     "static/media/tailwind.png": "/portfolio-react-app/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/chouette_agence.jpg": "/portfolio-react-app/static/media/chouette_agence.2786399a7a1f54a056f0.jpg",
-    "static/media/groupomania.jpg": "/portfolio-react-app/static/media/groupomania.cadb65a3b2551f5479ff.jpg",
     "static/media/hot_takes.jpg": "/portfolio-react-app/static/media/hot_takes.4380ad2cdb1566946e57.jpg",
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react-app/index.html",
-    "main.cb41b8bf.css.map": "/portfolio-react-app/static/css/main.cb41b8bf.css.map",
-    "main.7565628e.js.map": "/portfolio-react-app/static/js/main.7565628e.js.map"
+    "main.c3a65ea5.css.map": "/portfolio-react-app/static/css/main.c3a65ea5.css.map",
+    "main.5a65c4da.js.map": "/portfolio-react-app/static/js/main.5a65c4da.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb41b8bf.css",
-    "static/js/main.7565628e.js"
+    "static/css/main.c3a65ea5.css",
+    "static/js/main.5a65c4da.js"
   ]
 }
