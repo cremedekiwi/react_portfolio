@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.add9b5ec.css",
+    "main.css": "/portfolio-react-app/static/css/main.56a4e01a.css",
     "main.js": "/portfolio-react-app/static/js/main.3b47c4cc.js",
     "static/media/chouette_agence.jpg": "/portfolio-react-app/static/media/chouette_agence.f0db6ba514ac2306360f.jpg",
     "static/media/kanap.jpg": "/portfolio-react-app/static/media/kanap.3a18bb761070ac8529b3.jpg",
@@ -18,11 +18,11 @@
     "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react-app/index.html",
-    "main.add9b5ec.css.map": "/portfolio-react-app/static/css/main.add9b5ec.css.map",
+    "main.56a4e01a.css.map": "/portfolio-react-app/static/css/main.56a4e01a.css.map",
     "main.3b47c4cc.js.map": "/portfolio-react-app/static/js/main.3b47c4cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.add9b5ec.css",
+    "static/css/main.56a4e01a.css",
     "static/js/main.3b47c4cc.js"
   ]
 }
