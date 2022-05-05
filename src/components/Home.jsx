@@ -7,10 +7,10 @@ function Home() {
     <div name='home' className='w-full h-screen bg-[#0a192f]'>
         {/* Container */}
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-            <p className='text-xl sm:text-4xl text-pink-600'>Hello, mon nom est</p>
-            <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>J. Arumugam</h1>
-            <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>Développeur Full Stack.</h2>
-            <p className='text-[#8892b0] py-4 max-w-[700px]'>Titulaire d'un diplôme de développeur web (BTS). J'ai acquis des compétences en React, NodeJS, Sass et Tailwind. Je suis actuellement à la recherche de ma première expérience.</p>
+            <p className='text-base sm:text-4xl text-pink-600'>Hello, mon nom est</p>
+            <h1 className='text-2xl sm:text-7xl font-bold text-[#ccd6f6]'>J. Arumugam</h1>
+            <h2 className='text-2xl sm:text-7xl font-bold text-[#8892b0]'>Développeur Full Stack.</h2>
+            <p className='text-sm sm:text-2xl text-[#8892b0] py-4 max-w-[700px]'>Titulaire d'un diplôme de développeur web (BTS). J'ai acquis des compétences en React, NodeJS, Sass et Tailwind. Je suis actuellement à la recherche de ma première expérience.</p>
             <div>
                 <Link to="work" smooth={true} duration={500}>
                     <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>Voir mes projets

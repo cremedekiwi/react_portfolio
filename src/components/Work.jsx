@@ -1,10 +1,10 @@
 import React from 'react'
-import Groupomania from '../assets/groupomania.jpg'
-import HotTakes from '../assets/hot_takes.jpg'
-import Kanap from '../assets/kanap.jpg'
-import ChouetteAgence from '../assets/chouette_agence.jpg'
-import Ohmyfood from '../assets/ohmyfood.jpg'
-import Reservia from '../assets/reservia.jpg'
+import Groupomania from '../assets/project/groupomania.jpg'
+import HotTakes from '../assets/project/hot_takes.jpg'
+import Kanap from '../assets/project/kanap.jpg'
+import ChouetteAgence from '../assets/project/chouette_agence.jpg'
+import Ohmyfood from '../assets/project/ohmyfood.jpg'
+import Reservia from '../assets/project/reservia.jpg'
 
 function Work() {
   return (
@@ -65,9 +65,9 @@ function Work() {
                         </span>
                         <p>#Vanilla JavaScript</p>
                         <div className='pt-8 text-center'>
-                            {/* <a href='/'> */}
-                                {/* <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
-                            {/* </a> */}
+                            <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_5_10112021/front/html/index.html' target="_blank" rel="noopener noreferrer">
+                                <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
                             <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_5_10112021' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
