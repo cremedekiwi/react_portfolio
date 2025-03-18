@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.37510923.css",
-    "main.js": "/static/js/main.68d04392.js",
+    "main.js": "/static/js/main.0b1889cc.js",
     "static/media/cv_jarumugam.pdf": "/static/media/cv_jarumugam.d5130e0a6290c7428f7e.pdf",
     "static/media/chouette_agence.jpg": "/static/media/chouette_agence.f0db6ba514ac2306360f.jpg",
     "static/media/kanap.jpg": "/static/media/kanap.3a18bb761070ac8529b3.jpg",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.37510923.css.map": "/static/css/main.37510923.css.map",
-    "main.68d04392.js.map": "/static/js/main.68d04392.js.map"
+    "main.0b1889cc.js.map": "/static/js/main.0b1889cc.js.map"
   },
   "entrypoints": [
     "static/css/main.37510923.css",
-    "static/js/main.68d04392.js"
+    "static/js/main.0b1889cc.js"
   ]
 }
