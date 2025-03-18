@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
 import {FaBars, FaTimes, FaLinkedin, FaGithub} from 'react-icons/fa'
-// import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from '../assets/logo.png'
 import CV from '../assets/cv_jarumugam.pdf'
@@ -77,12 +76,6 @@ function Navbar() {
                         Github <FaGithub size={30} />
                     </a>
                 </li>
-                {/* <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-                    <a className='flex justify-between items-center w-full text-gray-300'
-                    href="mailto:jarumugam@outlook.fr">
-                        Mail <HiOutlineMail size={30} />
-                    </a>
-                </li> */}
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
                     <a className='flex justify-between items-center w-full text-gray-300'
                     href={CV} target="_blank" rel="noopener noreferrer">

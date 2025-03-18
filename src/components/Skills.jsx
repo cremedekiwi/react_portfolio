@@ -6,8 +6,6 @@ import JavaScript from '../assets/skills/javascript.png'
 import ReactImg from '../assets/skills/react.png'
 import Node from '../assets/skills/node.png'
 import Mongo from '../assets/skills/mongo.png'
-import HTML from '../assets/skills/html.png'
-import CSS from '../assets/skills/css.png'
 import Tailwind from '../assets/skills/tailwind.png'
 import Sass from '../assets/skills/sass.png'
 
