@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {FaBars, FaTimes, FaLinkedin, FaGithub} from 'react-icons/fa'
-import {HiOutlineMail} from 'react-icons/hi'
+// import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from '../assets/logo.png'
 import CV from '../assets/cv_jarumugam.pdf'

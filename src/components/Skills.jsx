@@ -1,5 +1,7 @@
 import React from 'react'
 
+import C from '../assets/skills/c.png'
+import CPlus from '../assets/skills/cplus.png'
 import JavaScript from '../assets/skills/javascript.png'
 import ReactImg from '../assets/skills/react.png'
 import Node from '../assets/skills/node.png'
@@ -20,7 +22,14 @@ function Skills() {
             </div>
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
 
-
+				<div className='hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={C} alt="C icon"></img>
+                    <p className='my-4'>C</p>
+                </div>
+				<div className='hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={CPlus} alt="C++ icon"></img>
+                    <p className='my-4'>C++</p>
+                </div>
                 <div className='hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={JavaScript} alt="JavaScript icon"></img>
                     <p className='my-4'>JAVASCRIPT</p>
@@ -36,14 +45,6 @@ function Skills() {
                 <div className='hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Mongo} alt="Mongo icon"></img>
                     <p className='my-4'>MONGO DB</p>
-                </div>
-                <div className='hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={HTML} alt="HTML icon"></img>
-                    <p className='my-4'>HTML</p>
-                </div>
-                <div className='hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={CSS} alt="CSS icon"></img>
-                    <p className='my-4'>CSS</p>
                 </div>
                 <div className='hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind icon"></img>
