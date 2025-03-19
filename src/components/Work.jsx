@@ -30,7 +30,7 @@ function Work() {
                             {/* <a href='/'> */}
                                 {/* <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                             {/* </a> */}
-                            <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_7_04012022' target="_blank" rel="noopener noreferrer">
+                            <a href='https://github.com/cremedekiwi/react_groupomania' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -49,7 +49,7 @@ function Work() {
                             {/* <a href='/'> */}
                                 {/* <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button> */}
                             {/* </a> */}
-                            <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_6_02122021' target="_blank" rel="noopener noreferrer">
+                            <a href='https://github.com/cremedekiwi/nodejs_hot_takes' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -65,10 +65,10 @@ function Work() {
                         </span>
                         <p>#Vanilla JavaScript</p>
                         <div className='pt-8 text-center'>
-                            <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_5_10112021/front/html/index.html' target="_blank" rel="noopener noreferrer">
+                            <a href='https://cremedekiwi.github.io/js_kanap/front/html/index.html' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_5_10112021' target="_blank" rel="noopener noreferrer">
+                            <a href='https://github.com/cremedekiwi/js_kanap' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -84,10 +84,10 @@ function Work() {
                         </span>
                         <p>#SEO #HTML #CSS</p>
                         <div className='pt-8 text-center'>
-                            <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_4_25102021/' target="_blank" rel="noopener noreferrer">
+                            <a href='https://cremedekiwi.github.io/html_lachouetteagence/' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_4_25102021' target="_blank" rel="noopener noreferrer">
+                            <a href='https://github.com/cremedekiwi/html_lachouetteagence' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -103,10 +103,10 @@ function Work() {
                         </span>
                         <p>#HTML #SASS</p>
                         <div className='pt-8 text-center'>
-                            <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_3_04102021/' target="_blank" rel="noopener noreferrer">
+                            <a href='https://cremedekiwi.github.io/sass_ohmyfood/' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_3_04102021' target="_blank" rel="noopener noreferrer">
+                            <a href='https://github.com/cremedekiwi/sass_ohmyfood' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -122,10 +122,10 @@ function Work() {
                         </span>
                         <p>#HTML #CSS</p>
                         <div className='pt-8 text-center'>
-                            <a href='https://cremedekiwi.github.io/JuthamandjouARUMUGAM_2_09092021/' target="_blank" rel="noopener noreferrer">
+                            <a href='https://cremedekiwi.github.io/css_reservia/' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/cremedekiwi/JuthamandjouARUMUGAM_2_09092021' target="_blank" rel="noopener noreferrer">
+                            <a href='https://github.com/cremedekiwi/css_reservia' target="_blank" rel="noopener noreferrer">
                                 <button className='text-center rounder-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
