@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Home />
-      <Work />
+      {/* <Home /> */}
       <Skills />
+      <Work />
       <Contact />
     </div>
   );
