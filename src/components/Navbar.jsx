@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes, FaLinkedin, FaGithub } from "react-icons/fa";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logo.png";
-import CV from "../assets/cv_jarumugam.pdf";
+import CV from "../assets/cv_jarumuga.pdf";
 import { Link } from "react-scroll";
 
 function Navbar() {
