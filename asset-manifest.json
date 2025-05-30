@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.099fbdf6.css",
-    "main.js": "/static/js/main.775e708f.js",
+    "main.js": "/static/js/main.86d13047.js",
     "static/media/chouette_agence.jpg": "/static/media/chouette_agence.f0db6ba514ac2306360f.jpg",
     "static/media/cplus.png": "/static/media/cplus.904c659a2c4e76605892.png",
     "static/media/kanap.jpg": "/static/media/kanap.3a18bb761070ac8529b3.jpg",
     "static/media/hot_takes.jpg": "/static/media/hot_takes.d5edbdc45537f2dbdf31.jpg",
     "static/media/ohmyfood.jpg": "/static/media/ohmyfood.b65980c25ba6d839ae20.jpg",
     "static/media/reservia.jpg": "/static/media/reservia.b47e98d2228a6b8bb9c4.jpg",
-    "static/media/cv_jarumuga.pdf": "/static/media/cv_jarumuga.2edb4e847ae965d40001.pdf",
+    "static/media/cv_jarumuga.pdf": "/static/media/cv_jarumuga.8377d576df3605c89dfc.pdf",
     "static/media/groupomania.jpg": "/static/media/groupomania.3f57687d05bd75322569.jpg",
     "static/media/sass.png": "/static/media/sass.2e753527005878c60286.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -19,10 +19,10 @@
     "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "index.html": "/index.html",
     "main.099fbdf6.css.map": "/static/css/main.099fbdf6.css.map",
-    "main.775e708f.js.map": "/static/js/main.775e708f.js.map"
+    "main.86d13047.js.map": "/static/js/main.86d13047.js.map"
   },
   "entrypoints": [
     "static/css/main.099fbdf6.css",
-    "static/js/main.775e708f.js"
+    "static/js/main.86d13047.js"
   ]
 }
