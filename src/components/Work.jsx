@@ -39,7 +39,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -66,7 +66,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -90,7 +90,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Demo
                   </button>
                 </a>
@@ -99,7 +99,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -123,7 +123,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Demo
                   </button>
                 </a>
@@ -132,7 +132,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -156,7 +156,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Demo
                   </button>
                 </a>
@@ -165,7 +165,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -189,7 +189,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Demo
                   </button>
                 </a>
@@ -198,7 +198,7 @@ function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-secondary font-bold text-lg">
+                  <button className="text-center rounder-lg px-4 py-3 m-2 bg-white text-primary font-bold text-lg">
                     Code
                   </button>
                 </a>
