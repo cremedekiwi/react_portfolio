@@ -11,7 +11,10 @@ import Sass from "../assets/skills/sass.png";
 
 function Skills() {
   return (
-    <div name="skills" className="w-full md:h-screen bg-primary text-secondary">
+    <div
+      name="skills"
+      className="w-full min-h-screen py-16 md:h-screen bg-primary text-secondary"
+    >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>

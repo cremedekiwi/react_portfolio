@@ -26,7 +26,7 @@ function Navbar() {
         </li>
 
         <li className="hover:text-accent">
-          <Link to="work" smooth={true} duration={500}>
+          <Link to="projects" smooth={true} duration={500}>
             projects
           </Link>
         </li>
@@ -52,19 +52,31 @@ function Navbar() {
         }
       >
         <li className="py-6 text-4xl hover:text-accent">
-          <Link onClick={handleClick} to="work" smooth={true} duration={500}>
-            Projects
-          </Link>
+          <a
+            onClick={handleClick}
+            href={CV}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            cv
+          </a>
         </li>
+
         <li className="py-6 text-4xl hover:text-accent">
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
-            Skills
+            skills
+          </Link>
+        </li>
+
+        <li className="py-6 text-4xl hover:text-accent">
+          <Link onClick={handleClick} to="projects" smooth={true} duration={500}>
+            projects
           </Link>
         </li>
 
         <li className="py-6 text-4xl hover:text-accent">
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
-            Contact
+            contact
           </Link>
         </li>
       </ul>
