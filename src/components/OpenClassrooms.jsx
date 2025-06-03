@@ -6,18 +6,18 @@ import ChouetteAgence from "../assets/project/chouette_agence.jpg";
 import Ohmyfood from "../assets/project/ohmyfood.jpg";
 import Reservia from "../assets/project/reservia.jpg";
 
-function Projects() {
+function OpenClassrooms() {
   return (
     <div
-      name="projects"
+      name="openclassrooms"
       className="w-full md:h-screen bg-primary text-secondary min-h-screen py-16"
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl min-h-screen py-16 font-bold inline border-b-4 border-accent">
-            Projects
+          <p className="text-4xl font-bold inline border-b-4 border-accent">
+            OpenClassrooms
           </p>
-          <p className="py-6">Here some of my projects</p>
+          <p className="py-4">#react #nodejs #js #sass #html #css</p>
         </div>
 
         {/* Container */}
@@ -214,4 +214,4 @@ function Projects() {
   );
 }
 
-export default Projects;
+export default OpenClassrooms;

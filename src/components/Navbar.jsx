@@ -26,8 +26,14 @@ function Navbar() {
         </li>
 
         <li className="hover:text-accent">
-          <Link to="projects" smooth={true} duration={500}>
-            projects
+          <Link to="fortytwo" smooth={true} duration={500}>
+            42
+          </Link>
+        </li>
+
+        <li className="hover:text-accent">
+          <Link to="openclassrooms" smooth={true} duration={500}>
+            openclassrooms
           </Link>
         </li>
 
@@ -69,8 +75,24 @@ function Navbar() {
         </li>
 
         <li className="py-6 text-4xl hover:text-accent">
-          <Link onClick={handleClick} to="projects" smooth={true} duration={500}>
-            projects
+          <Link
+            onClick={handleClick}
+            to="fortytwo"
+            smooth={true}
+            duration={500}
+          >
+            42
+          </Link>
+        </li>
+
+        <li className="py-6 text-4xl hover:text-accent">
+          <Link
+            onClick={handleClick}
+            to="openclassrooms"
+            smooth={true}
+            duration={500}
+          >
+            openclassrooms
           </Link>
         </li>
 
