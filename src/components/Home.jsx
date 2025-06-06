@@ -14,7 +14,7 @@ function Home() {
           Where pixels meet programming.
         </p>
         <div>
-          <Link to="42" smooth={true} duration={500}>
+          <Link to="fortytwo" smooth={true} duration={500}>
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-accent hover:border-accent">
               See my projects
               <span className="group-hover:rotate-90 duration-300">
