@@ -8,7 +8,7 @@ function Home() {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-base sm:text-4xl text-accent">
-          42 common core complete • seeking cdi
+          42 common core complete • available for hire
         </p>
         <p className="text-sm sm:text-2xl text-[#8892b0] py-4 max-w-[700px]">
           Where pixels meet programming.

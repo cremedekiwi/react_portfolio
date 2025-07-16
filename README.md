@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# juth.fr
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive portfolio website built with React and styled with Tailwind CSS. This project showcases web development skills and serves as a professional online presence.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+Visit the live portfolio at: [www.juth.fr](https://www.juth.fr)
 
-### `yarn start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Modern React App**: Built with React 18 and Create React App
+- **Responsive Design**: Mobile-first approach with Tailwind CSS
+- **Custom Styling**: Tailored color palette and design system
+- **Interactive Elements**: Smooth scrolling navigation with react-scroll
+- **Icons**: React Icons library for consistent iconography
+- **Performance Optimized**: Production build with minification and optimization
+- **SEO Ready**: Meta tags and Open Graph support
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `yarn test`
+- **Frontend**: React 18, JavaScript
+- **Styling**: Tailwind CSS
+- **Icons**: React Icons
+- **Build Tool**: Create React App
+- **Deployment**: GitHub Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Structure
 
-### `yarn build`
+```
+portfolio-react-app/
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   ├── robots.txt
+│   └── CNAME
+├── src/
+│   └── (React components and assets)
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Design System
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The project uses a custom color palette defined in `tailwind.config.js`:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Primary**: `#0a192f` (Dark navy)
+- **Secondary**: `#fff` (White)
+- **Accent**: `#a4b753` (Olive green)
 
-### `yarn eject`
+### Custom Domain Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The project is configured to use a custom domain (`www.juth.fr`) via:
+- `CNAME` file in the root directory
+- `public/CNAME` file for GitHub Pages
+- `homepage` field in `package.json`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## SEO & Meta Tags
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The portfolio includes:
+- Descriptive meta tags in French
+- Open Graph image support
+- Proper title and description
+- Responsive viewport configuration
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
